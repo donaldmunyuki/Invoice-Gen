@@ -1,5 +1,5 @@
 # Invoice-Gen
-Introducing "Invoice-Gen" an PWA Invoice Generator, your seamless solution for creating professional, customizable invoices effortlessly. Perfect for freelancers, small businesses, and enterprises, our intuitive platform allows you to generate detailed invoices swiftly, ensuring accuracy and clarity every time.
+Introducing "Invoice-Gen" an Invoice Generator, your seamless solution for creating professional, customizable invoices effortlessly. Perfect for freelancers, small businesses, and enterprises, our intuitive platform allows you to generate detailed invoices swiftly, ensuring accuracy and clarity every time.
 
 ## Key Features:
 
@@ -15,8 +15,9 @@ Personalize invoices by adding your company’s name, logo, and essential detail
 - Detailed Itemization:
 Clearly list products or services, quantities, unit prices, and item-specific discounts to avoid confusion and enhance transparency.
 
--Currency Flexibility:
+- Currency Flexibility:
  Generate invoices in multiple currencies, catering effortlessly to international clients.
+
 - Automatic Calculations:
  Immediate calculation of subtotals, taxes, discounts, and final totals ensures precision and saves valuable time.
 
@@ -26,4 +27,4 @@ Clearly list products or services, quantities, unit prices, and item-specific di
 - Professional Invoice Footer:
  A built-in footer thanking clients for their business adds a courteous, professional touch to each invoice.
 
-Effortlessly streamline your billing process with SYIGEN Invoice Generator, providing accuracy, professionalism, and ease-of-use for your growing business.
+Effortlessly streamline your billing process with "Invoice-Gen", providing accuracy, professionalism, and ease-of-use for your growing business.

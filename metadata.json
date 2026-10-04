@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "Professional invoice generator to easily create, calculate, customize, and export printable invoices with taxes and discounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

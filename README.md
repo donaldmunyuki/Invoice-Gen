@@ -1,6 +1,8 @@
 # Invoice-Gen
 Introducing "Invoice-Gen" Invoice Generator, your seamless solution for creating professional, customizable invoices effortlessly. Perfect for freelancers, small businesses, and enterprises, our intuitive platform allows you to generate detailed invoices swiftly, ensuring accuracy and clarity every time.
 
+![Invoice Gen v1](invoice-gen-v1.png)
+
 ## Key Features:
 
 - Customizable Invoice Details:
